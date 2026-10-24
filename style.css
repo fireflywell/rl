@@ -1,0 +1,42 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 30px;
+
+    background-image: url("https://vechirniy.kyiv.ua/uploads/2023/02/14/rusanika1977.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+}
+
+h2 {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+a {
+    display: inline-block;
+    padding: 10px;
+    margin: 5px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 5px;
+}
+
+p {
+    padding: 15px;
+    line-height: 1.6;
+    font-size: 17px;
+    background-color: rgba(255, 255, 255, 0.85);
+    border-radius: 8px;
+}
